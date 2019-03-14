@@ -12,7 +12,7 @@
 一般态、 不定态、 进行态、 完成态、 完成进行态
 
 #### 时间轴
-<img src="../pics/timeline.jpg" width="45%">
+<img src="../Pics/timeline.jpg" width="45%">
 
 #### 非谓语动词的句法功能
 主语、 谓语、 宾语、 表语、 定语、 状语、 补语
