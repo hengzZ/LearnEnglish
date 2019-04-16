@@ -120,3 +120,76 @@ Jake always forgets.
 This is stupid!
 Are you crazy?
 ```
+
+#### 2. 描述他人
+```
+描述一个所认识的人
+tall、 medium height、 short
+overweight、 fat、 thin
+long、 medium length、 short、 curly、 straight、 blond、 bald
+old、 middle-aged、 young
+描述关系
+wife - husband
+granddaughter - grandson
+aunt - uncle
+niece - nephew
+cousin
+girlfriend - boyfriend
+partner - 可指代各种关系 （从配偶关系到商业伙伴和业务来往都可以）
+boss
+colleague
+评估员工
+hardwing、 efficient、 creative、 helpful、 positive
+does a good job
+works well with the team / team player
+getting better
+good in meetings
+could do better
+late、 negative、 disorganized、 lazy
+给出推荐
+work quickly / well
+highly
+terribly
+already
+probably
+Honestly
+I highly recommand him.
+```
+形容词的顺序 （“组合多个形容词”）
+```
+▪ 大小、年龄、颜色 （依次）
+He's a thin, middle-aged man.
+```
+“谈论” 他人
+```
+▪ 询问概况 （What is (person) like? 或 What does (person) look like?）
+▪ 询问特定信息 （What's his hair like? 或 What color are his eyes?）
+▪ Good-looking / Attractive 可用于描述男性和女性。
+▪ 女性专有描述 Beautiful。
+▪ 男性专有描述 Handsome。
+```
+描述 “关系”
+```
+▪ 使用动名词 （verb + -ing） 描述一段关系中正在发生的事情。
+I always have fun talking with him.
+▪ 询问两人间的关系 （How are you and your brother doing? What do you and Sylvia do for fun?）
+▪ you two 表达密切的关系
+Are you two having trouble?
+```
+‘too’ 和 ‘enough’
+```
+▪ too + 形容词， 表示超过/过分。
+▪ enough + 形容词， 表示满意/满足。
+▪ not + 形容词 + enough， 表示不尽人意。
+```
+“提建议” (发表个人意见)
+```
+▪ I think that 表达个人意见。
+▪ so do I. / neither do I. 表示赞同。
+▪ 征求意见。 （what do you think about...? 或 Do you think...?）
+```
+‘so’ 和 ‘such’
+```
+▪ so + 形容词， 或者 so + 副词。 （表示强调）
+▪ such + 名词。 （表示强调）
+```
