@@ -99,3 +99,20 @@
 ```
 
 ##### 1.2.2 同位语
+功能概念 —— 在一个名词或者句子后面出现，起到解释和说明作用的一个名词结构。
+
+##### 同位语存在的模式
+* A,B,
+* A —— B
+* A or B
+* A of B (该模式，A 的范围一定要比 B 大)
+* 句子 —— 或者 ，名词
+
+Michael O'Neal, head of digital media at Christie's, thinks the success of the new fair will depend on whether it can build a brand.
+
+为什么会有同位语？
+* 使整个句子的表达更加正式和多样化。
+
+因此，去掉同位语不会影响到句子的完整性。在阅读句子的时候，知道是一个同位语，然后忽略掉即可。
+
+##### 1.2.3 
