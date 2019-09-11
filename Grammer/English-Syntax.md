@@ -130,4 +130,32 @@ Parents, in a word, should never lose sight of the side-effects of computer game
 
 因此，去掉插入语不会影响到句子的完整性。在阅读句子的时候，知道是一个插入语，然后忽略掉即可。
 
-##### 1.2.4 
+##### 1.2.4 状语
+功能概念 —— 在句子中修饰和限定动词和形容词，有时候也修饰整个句子。
+
+##### 状语的构成成分
+* 副词（adv.）
+* 现在分词短语 （现在分词+名词 / 现在分词+介词+名词 / 现在分词+句子。）
+* 过去分词短语 （过去分词+名词 / 过去分词+介词+名词 / 过去分词+to do+名词。）
+* 动词不定式短语 （to vt. + 名词）
+* 介词短语 (prep. + 名词)
+* 独立主格结构 (名词+过去分词短语或现在分词短语)
+
+President Bush campaigned to move Social Security to a saving-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns.
+(为了使独立主格结构与原句区分，往往在独立主格的前面加上 with)
+
+为什么会有状语？
+* 可以修饰动词、形容词、句子，可以使句子更复杂。
+
+状语在句子中的位置是不固定的，首先，要发现状语成分，然后将其从句子中移除。 状语在阅读的时候为内容理解构成非常大的障碍！
+
+A few art collectors established in their respective communities the idea of the value art. (状语 in their respective communities 严重阻碍内容理解)
+
+##### 状语严重阻碍阅读理解的原因
+普遍的情况是以下两种情况：
+* 动词 + 介词 + 名词1 + 名词2
+* 动词 + 介词1 + 名词1 + 介词2 + 名词2 + 名词3
+
+不由自主的容易将动词和后面的介词组成动词短语。。。然而并不是。。。
+
+### Part 2 —— 非简单句
