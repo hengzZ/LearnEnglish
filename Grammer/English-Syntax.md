@@ -173,3 +173,164 @@ A few art collectors established in their respective communities the idea of the
 #### 总结： 简单句 = 5 + 4。
 
 ### Part 2 —— 非简单句
+非简单句含有一套以上的主谓结构，并且句子中的成分是由句子构成。
+
+通俗解释，非简单句就是多个简单句的组合。。
+
+那么，多个简单句组合的方式和原则又是什么？
+* 组合的方式/途径： 依靠连接词
+* 原则： 主句专一原则
+
+#### 2.1 连接
+* 连接词的分类
+* 简单句间的关联方式
+
+##### 2.1.1 连接词的分类
+* 关系代词 (that,which,who,whom,what,as,..)
+* 关系连词 (that,when,where,why,how,..)
+* 并列连词 (and,or,but,..)
+* 标点符号 (: ; ——)
+
+##### 2.1.2 简单句的关联方式
+* 并列 (并列连词或分号 “;” 连接的多个简单句)
+* 复合 (非并列，即复合)
+
+#### 2.2 并列的关联方式
+###### 补充：并列连词 （背诵项）
+```
+虽然并列，但是并列的意思可以是多种，如下所示：
+# and 表示顺承
+# while 表示对比
+# but/yet 表示转折
+# for/so 表示因果
+# or/either..or 表示选择
+# and/then 表示时间
+# and/so/neither/nor 纯正的并列
+# not only..but also/neither..nor 表示递进
+```
+
+###### 补充：并列是哪一部分的并列？
+```
+# 句间并列 —— 两个句子是并列关系
+# 句中并列 —— 句子中的几个成分间是并列关系
+注意，1. 并列连接词代表并列的终结。 即它的后面就是并列内容的最后一个。
+     2. 并列常常会引起省略。 省略的内容可以是连接词，更可以是并列内容中重复出现的部分。
+```
+
+To see the world in a grain of sand, and a heaven in a wild flower.
+Hold infinity in the palm of your hand, and eternity in an hour.
+
+#### 2.3 复合的关联方式
+—— 即 “主/从” 关系的出现
+
+##### 2.3.1 复合句的分类
+* 名词性从句 n. （主语从句、宾语从句、表语从句、同位语从句）
+* 形容词性从句 adj.（定语从句）
+* 副词性从句 adv. （状语从句）
+
+###### 注意，主、宾、表、同、定、状 来源自 “简单句 = 5 + 4” 的基本概念抽象。
+```
+# 把可以加从句二字的最基本功能概念都加上从句二字。
+例： 谓语没有用句子替换的，因此没有谓语从句。。
+```
+
+###### 补充： 从句有多少类？ （4+1+1）
+```
+从句的由来，虽来自非简单句的句法体系： 非简单句的复合关联方式。
+但，根源是 “简单句 = 5 + 4” 中可以被句子替换的功能概念。
+# 五大基本句型中，谓语没有办法用句子替换。
+# 定语、同位语、插入语、状语 四个基本功能概念中，插入语没有办法用句子替换。
+```
+
+##### 2.3.2 从句使用的连接词 （背诵项）
+* n. 从句
+    * 关系代词 (what,which,who,whom)
+    * 关系连词 (that,when,where,how)
+* adj. 从句
+    * 关系代词 (that,which,as,who,whom.whose)
+    * 关系连词 (when,where,why,how)
+* adv. 从句
+    * 时间状语从句
+        * 一般连接词 when,while,as,before,since,till,until,as soon as。
+        * 特殊连接词 the moment, the instant, instantly, no sooner..when, scarcely..when 等。
+    * 地点状语从句
+        * 一般连接词 where。
+        * 特殊连接词 wherever, anywhere, everywhere 等。
+    * 原因状语从句
+        * 一般连接词 because,as,for,since。
+        * 特殊连接词 seeing that, considering that, now that, given that, in that, in as much as, in so much as 等。
+    * 目的状语从句
+        * 一般连接词 so that, in order that。
+        * 特殊连接词 lest, for fear that, in case, in the hope that, on purpose that, for the purpose that, to the end that 等。
+    * 结果状语从句
+        * 一般连接词 so..that,so that,such..that。
+        * 特殊连接词 such that, to the degree that, to the extent that, to such a degree that, to such an extent that 等。
+    * 条件状语从句
+        * 一般连接词 if,unless。
+        * 特殊连接词 suppose, supposing, providing, provided, on condition that, so long as, as long as 等。
+    * 让步状语从句
+        * 一般连接词 although,though,even though,even if。
+        * 特殊连接词 while, as, whatever, whoever, whichever, however, whenever, wherever, whether..or.., as+adj.+as+主谓结构 等。
+    * 比较状语从句
+        * 一般连接词 as,than。
+        * 特殊连接词 the more..the more.., just as..so.., A is to B what/as C is to D, no more..than, not A so much as B / not so much A as B 等。
+    * 方式状语从句
+        * 一般连接词 as,the way。
+        * 特殊连接词 无。
+
+###### 现在知道句子为何那么难理解了吧。 简单句是因为状语，非简单句更是因为状语。。。
+
+##### 2.3.3 主句专一原则
+* 一个复合的关联方式产生的非简单句，只能有一个主句，主句中没有连接词；
+* 使用复合的关联方式组合 n 个简单句，则只能有 n-1 个连接词。
+
+##### 2.3.4 从句的构成成分
+* 主语从句
+    * 关系连词 + 句子 + 动词
+    * It + be + 形容词/名词短语 + 关系连词 + 句子
+    * It + vi. + that
+* 宾语从句
+    * 动词 + 连接词 + 句子
+    * 动词 + 宾语 + 连接词 + 句子
+    * 介词 + 连接词 + 句子
+    * 动词 + it（形式宾语） + 宾补 + 连接词 + 句子
+* 表语从句
+    * 系动词 + 连接词 + 句子
+* 定语从句
+    * 名词 + 连接词 + 句子
+* 同位语从句
+    * 名词 + 连接词 + 句子
+* 状语从句
+    * 句子 + 连接词 + 句子
+
+看上去很吓人、很复杂。。现在将 “连接词+句子” 看成一个整体。回顾 “简单句 = 5 + 4” 的内容，尤其是 五大基本句型 和 四大功能概念的构成成分。还是那些内容。。请将每个构成成分与简单句的句型和构成成分一一对应。
+
+###### 补充： 定语从句的作用
+```
+现在，修饰和限定名词，仅仅是定语从句从简单句的定语概念继承来的作用。
+定语从句还有另外两个作用：
+# 连接两个具有共同名词的句子；
+# 表示因果逻辑关系。
+```
+###### 补充： 非限定性定语从句
+```
+由于现在考虑的是非简单句，句子也可以算是一个名词。
+当使用定语从句连接一个句子时，称它为非限定性定语从句。（此刻，连接词前面也一定要加逗号）
+Kevin gave us a wonderful training course, which left us a deep impression.
+```
+
+#### 总结： 非简单句的核心是记忆：并列连词和从句使用的连接词。
+
+### Part 3 —— 英语中常出现的隔离现象
+* 主谓隔离
+* 谓宾隔离
+
+写作使用时很秀，让人阅读理解起来很累。。
+
+##### 3.1 主谓隔离
+习惯于在句子的主语和谓语之间放入定语或者插入语，修饰主语。
+
+##### 3.2 谓宾隔离
+习惯于在句子的谓语和宾语之间放入状语或者插入语，增加句子的多变性。(这种最变态)
+
+### Part 4 —— 
