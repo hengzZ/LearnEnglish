@@ -334,3 +334,32 @@ Kevin gave us a wonderful training course, which left us a deep impression.
 习惯于在句子的谓语和宾语之间放入状语或者插入语，增加句子的多变性。(这种最变态)
 
 ### Part 4 —— 
+
+<br>
+
+## 翻译（句子理解）技巧
+翻译（句子理解）的难点主要是状语和从句的处理。
+
+#### 1. 状语的处理
+阅读复习简单句讲解中的状语处理方法。
+
+#### 2. 从句的处理技巧
+从句，是从三种词性角度划分，4+1+1 六种功能概念考虑。其中，状语从句是最复杂的，有很多用途，定语从句次之。也与状语和定语的复杂和难以理解程度对应上。
+
+##### 2.1 定语从句的处理
+
+* 前置译法。 就是正常的中文逻辑。能这样处理的大多都是短句。。
+
+Objects that do not transfer light cause shadows.
+
+* 后置译法。 拆出，译成一个后置的并列分句。
+
+Our war against terror is a contest of will in which perseverance is power.
+
+* 转换译法。 有的定语从句，句法上是定语作用，意义上又相当于一个状语从句。那么，剥离出来，按照状语从句处理。
+
+The increasing complexities of microsurgery, laser technology, arthroscopy and who knows what next demand understanding
+and competence in techniques that require educationally sound training(良好的训练) for the future orthopaedist. （相当于结果状语）
+
+##### 2.2 状语从句的处理
+状语从句的处理和状语的处理一样，永远都是 “剥离”。但是，要记忆状语从句的各个用途，以便在理解句子时正确对应上。。
