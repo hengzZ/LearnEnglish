@@ -249,7 +249,7 @@ Hold infinity in the palm of your hand, and eternity in an hour.
 * adj. 从句
     * 关系代词 (that,which,as,who,whom.whose)
     * 关系连词 (when,where,why,how)
-* adv. 从句
+* adv. 从句 **(9种)**
     * 时间状语从句
         * 一般连接词 when,while,as,before,since,till,until,as soon as。
         * 特殊连接词 the moment, the instant, instantly, no sooner..when, scarcely..when 等。
