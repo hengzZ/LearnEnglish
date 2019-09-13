@@ -2,7 +2,7 @@
 
 #### part 1. English Mind
 
-* [句法体系+语态(即时态)](Grammer/)
+* [句法体系+语态(时态)](Grammer/)
 
 #### part 2. Knowledge Fragment
 
